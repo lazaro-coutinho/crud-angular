@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Curso de Java",
+    "categoria": "back-end"
+  },
+  {
+    "id": 2,
+    "nome": "Curso de Angular",
+    "categoria": "front-end"
+  },
+  {
+    "id": 3,
+    "nome": "Curso de React",
+    "categoria": "front-end"
+  },
+  {
+    "id": 4,
+    "nome": "Curso de Spring Boot",
+    "categoria": "back-end"
+  },
+  {
+    "id": 5,
+    "nome": "Curso de Postgres",
+    "categoria": "back-end"
+  },
+  {
+    "id": 6,
+    "nome": "Curso de HTML",
+    "categoria": "front-end"
+  }
+]
